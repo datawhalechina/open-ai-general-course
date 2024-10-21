@@ -9,6 +9,3 @@ OPEN课程理念：
 
 ## 课程体系
 ![image](https://github.com/user-attachments/assets/316d92e5-1fea-47c2-9a88-d82bab483a06)
-
-## 课程大纲
-[Datawhale x 浙大AI通识课大纲](https://datawhaler.feishu.cn/wiki/LNSewBZMTiAAvoklRbbcXGMBnSZ)
