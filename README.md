@@ -243,6 +243,6 @@ OPEN AI 通识课是由[Datawhale](https://datawhale.cn/) x [浙大智海Mo](htt
 
 
 # 合作联系
-开源共建联系：[Datawhale](https://datawhale.cn/)
+课程开源共建联系：[Datawhale](https://datawhale.cn/)
 
 高校老师开课联系：[浙大智海Mo](https://github.com/momodel)
