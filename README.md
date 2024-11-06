@@ -26,27 +26,27 @@ OPEN AI 通识课是由[Datawhale](https://datawhale.cn/) x [浙大智海Mo](htt
     <!-- 人工智能导论 -->
     <tr>
         <td rowspan="6">人工智能导论</td>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=chapter">1. 人工智能的基本概念和发展历史</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">1. 人工智能的基本概念和发展历史</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=chapter">2. 人工智能的三大学派</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">2. 人工智能的三大学派</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">3. 人工智能的主要任务及其应用领域</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">3. 人工智能的主要任务及其应用领域</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">4. 人工智能对社会发展的影响与未来趋势</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">4. 人工智能对社会发展的影响与未来趋势</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">5. 人工智能的能与不能</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">5. 人工智能的能与不能</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">6. 为什么xx学科也需要学人工智能</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">6. 为什么xx学科也需要学人工智能</a></td>
     </tr>
     <!-- 人工智能基础 -->
     <tr>
         <td rowspan="5">人工智能基础</td>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">1. 人工智能中的数学基础</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">1. 人工智能中的数学基础</a></td>
     </tr>
     <tr>
         <td><a href="https://github.com/datawhalechina/learn-python-the-smart-way-v2">2. 人工智能中的编程基础：Python基础</a></td>
@@ -160,22 +160,22 @@ OPEN AI 通识课是由[Datawhale](https://datawhale.cn/) x [浙大智海Mo](htt
     </tr>
     <tr>
         <td rowspan="6">人工智能导论</td>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=chapter">1. 人工智能的基本概念和发展历史</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">1. 人工智能的基本概念和发展历史</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=chapter">2. 人工智能的三大学派</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">2. 人工智能的三大学派</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">3. 人工智能的主要任务及其应用领域：分类、回归、计算机视觉、自然语言处理、推荐系统、语音识别和生成、决策优化、生成式（AIGC）等</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">3. 人工智能的主要任务及其应用领域：分类、回归、计算机视觉、自然语言处理、推荐系统、语音识别和生成、决策优化、生成式（AIGC）等</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">4. 人工智能对社会发展的影响与未来趋势</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">4. 人工智能对社会发展的影响与未来趋势</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">5. 人工智能的能与不能</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">5. 人工智能的能与不能</a></td>
     </tr>
     <tr>
-        <td><a href="https://momodel.cn/overview/6173911eab37f12b14daf4a8?id=6173911eab37f12b14daf4a8&activeKey=medal">6. 为什么xx学科也需要学人工智能</a></td>
+        <td><a href="https://github.com/momodel/Introduction_to_Artificial_Intelligence">6. 为什么xx学科也需要学人工智能</a></td>
     </tr>
     <tr>
         <td rowspan="4">AI常用工具——文本工具篇</td>
